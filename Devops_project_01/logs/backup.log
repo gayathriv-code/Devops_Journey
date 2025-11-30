@@ -1,0 +1,8 @@
+[2025-11-30 06:01:44] INFO Creating backup of /home/ubuntu/hts-automation/logs -> /home/ubuntu/Devops_Journey/Devops_project_01/backups/logs_backup_2025-11-30_06-01-44.tar.gz
+[2025-11-30 06:01:44] INFO Backup successful: /home/ubuntu/Devops_Journey/Devops_project_01/backups/logs_backup_2025-11-30_06-01-44.tar.gz
+[2025-11-30 06:01:44] INFO Cleaning backups older than 7 days in /home/ubuntu/Devops_Journey/Devops_project_01/backups
+[2025-11-30 06:01:44] INFO Backup routine completed.
+[2025-11-30 06:28:58] INFO Creating backup of /home/ubuntu/hts-automation/logs -> /home/ubuntu/Devops_Journey/Devops_project_01/backups/logs_backup_2025-11-30_06-28-58.tar.gz
+[2025-11-30 06:28:58] INFO Backup successful: /home/ubuntu/Devops_Journey/Devops_project_01/backups/logs_backup_2025-11-30_06-28-58.tar.gz
+[2025-11-30 06:28:58] INFO Cleaning backups older than 7 days in /home/ubuntu/Devops_Journey/Devops_project_01/backups
+[2025-11-30 06:28:58] INFO Backup routine completed.
