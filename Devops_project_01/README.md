@@ -1,7 +1,7 @@
 his repository contains a **DevOps Automation Suite** implemented in Bash with production-minded features:
 
 - Modular scripts for **Monitoring**, **Backup**, and **User Management**
-- Central **menu orchestrator** (`main.sh`) for interactive use
+- Central **menu orchestrator** (`pipeline.sh`) for interactive use
 - **Config-driven** backup module with retention policy
 - **Logging** with rotation/retention logic
 - Safety checks, input validation, and idempotent operations
