@@ -1,0 +1,9 @@
+Vagrant.configure("2") do |config|
+  config.vm.box="ubuntu/jammy64"
+#  config.vm.provider"Virtualbox"; do |vb|
+  #  vb.memory ="1024"
+  #  vb.cpu="1"
+  config.vm.network"forwarded_port",guest:"22",host:"8080"
+  config.vm.network "private_network",ip:"100.104.93.156"
+  config.vm.provision :shell, path:"provision.sh"
+end
